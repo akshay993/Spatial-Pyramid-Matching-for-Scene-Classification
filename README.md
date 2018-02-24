@@ -2,6 +2,9 @@
 
 Implemented in MATLAB
 
+The Project is done for the Computer Vision and Image Processing class CSE573 and all the necessary instructions are included in the instructions pdf file.
+
+
 This system uses the bag-of-words approach with its Spatial Pyramid Extension for classifying the given image into 8 types of scenes.
 
 Here are some key points:
